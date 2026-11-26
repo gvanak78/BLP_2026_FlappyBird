@@ -1,0 +1,3 @@
+/home/blp/FlappyBird/build/CMakeFiles/FlappyBird.dir
+/home/blp/FlappyBird/build/CMakeFiles/edit_cache.dir
+/home/blp/FlappyBird/build/CMakeFiles/rebuild_cache.dir

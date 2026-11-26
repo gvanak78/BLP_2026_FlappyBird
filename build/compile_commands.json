@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/blp/FlappyBird/build",
+  "command": "/usr/bin/gcc-12 -I/home/blp/FlappyBird/include -g -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/FlappyBird.dir/src/main.c.o -c /home/blp/FlappyBird/src/main.c",
+  "file": "/home/blp/FlappyBird/src/main.c"
+},
+{
+  "directory": "/home/blp/FlappyBird/build",
+  "command": "/usr/bin/gcc-12 -I/home/blp/FlappyBird/include -g -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/FlappyBird.dir/src/cli.c.o -c /home/blp/FlappyBird/src/cli.c",
+  "file": "/home/blp/FlappyBird/src/cli.c"
+},
+{
+  "directory": "/home/blp/FlappyBird/build",
+  "command": "/usr/bin/gcc-12 -I/home/blp/FlappyBird/include -g -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/FlappyBird.dir/src/game.c.o -c /home/blp/FlappyBird/src/game.c",
+  "file": "/home/blp/FlappyBird/src/game.c"
+},
+{
+  "directory": "/home/blp/FlappyBird/build",
+  "command": "/usr/bin/gcc-12 -I/home/blp/FlappyBird/include -g -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/FlappyBird.dir/src/mcu.c.o -c /home/blp/FlappyBird/src/mcu.c",
+  "file": "/home/blp/FlappyBird/src/mcu.c"
+},
+{
+  "directory": "/home/blp/FlappyBird/build",
+  "command": "/usr/bin/gcc-12 -I/home/blp/FlappyBird/include -g -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/FlappyBird.dir/src/score.c.o -c /home/blp/FlappyBird/src/score.c",
+  "file": "/home/blp/FlappyBird/src/score.c"
+},
+{
+  "directory": "/home/blp/FlappyBird/build",
+  "command": "/usr/bin/gcc-12 -I/home/blp/FlappyBird/include -g -Wall -Wextra -Wpedantic -std=gnu11 -o CMakeFiles/FlappyBird.dir/src/ui.c.o -c /home/blp/FlappyBird/src/ui.c",
+  "file": "/home/blp/FlappyBird/src/ui.c"
+}
+]

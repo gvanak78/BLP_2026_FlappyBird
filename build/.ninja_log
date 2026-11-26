@@ -1,0 +1,12 @@
+# ninja log v5
+0	24	1795696139091054209	CMakeFiles/FlappyBird.dir/src/main.c.o	616d8ed9aa07b38d
+24	52	1795696139115066208	FlappyBird	4795bee5ab89c31c
+3	132	1795719509212918534	CMakeFiles/FlappyBird.dir/src/game.c.o	31389c4fb448468a
+1	133	1795719509212918534	CMakeFiles/FlappyBird.dir/src/cli.c.o	d4f78e9a4b879f1e
+132	156	1795719509236930534	CMakeFiles/FlappyBird.dir/src/mcu.c.o	36397f3edf428496
+0	177	1795719509256940534	CMakeFiles/FlappyBird.dir/src/main.c.o	616d8ed9aa07b38d
+156	181	1795719509264944533	CMakeFiles/FlappyBird.dir/src/ui.c.o	f42f176fbe3d51cd
+133	185	1795719509268946534	CMakeFiles/FlappyBird.dir/src/score.c.o	73bfbf409032458b
+185	238	1795719509320972533	FlappyBird	24183668e8a2523d
+0	58	1795719891459943218	CMakeFiles/FlappyBird.dir/src/main.c.o	616d8ed9aa07b38d
+61	83	1795719891487957218	FlappyBird	24183668e8a2523d
